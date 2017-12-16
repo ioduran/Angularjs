@@ -1,2 +1,2 @@
-# Angularjs
-İstanbul Kültür Üniversitesi AngularJs Ödevi
+# AyetApp
+Android App Projesi
